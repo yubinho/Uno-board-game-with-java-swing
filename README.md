@@ -32,7 +32,7 @@ Java SE Development Kit
 
 # Installation
 
-在安裝好Java後，點擊Uno.exe進行遊戲
+在安裝好Java後，點擊Uno.exe進行遊戲或直接以javac對UnoHome.java進行編譯
 
 # Game rules
 
