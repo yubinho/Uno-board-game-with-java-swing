@@ -70,27 +70,27 @@ Java SE Development Kit
 
 * 首頁，點選開始可以進行新一輪遊戲，也可點選規則說明或離開
   
-  ![This is a alt text.](./image/home.png)
+  ![This is a alt text.](https://github.com/yubinho/Uno-board-game-with-java-swing/blob/main/image/home.PNG)
 
 * 規則說明，可逐頁查看說明，查看完畢可點選離開返回首頁
 
-  ![This is a alt text.](./image/guide.png)
+  ![This is a alt text.](https://github.com/yubinho/Uno-board-game-with-java-swing/blob/main/image/guide.PNG)
 * 輸入玩家名稱，此遊戲必須2~4人遊玩，輸入完畢即可開始
 
-  ![This is a alt text.](./image/addName.png)
+  ![This is a alt text.](https://github.com/yubinho/Uno-board-game-with-java-swing/blob/main/image/addName.PNG)
 * 主要遊戲頁面，可點選下方卡牌進行出牌，或者抽一張牌結束回合，也可在即將贏得遊戲時點選Uno(需<=兩張牌)，未點選會導致無法結束並且被懲罰抽2張牌
 
   ![This is a alt text.](https://github.com/yubinho/Uno-board-game-with-java-swing/blob/main/image/Main.PNG)
 * 出牌確認，點選使用按鈕後，系統會判斷出牌是否滿足規則，滿足則輪到下一位玩家，反之則重新出牌
 
-  ![This is a alt text.](./image/submit.png)
+  ![This is a alt text.](https://github.com/yubinho/Uno-board-game-with-java-swing/blob/main/image/submit.PNG)
 * 萬能牌選色，如果出的是萬能牌，需要選擇下一回合卡牌顏色
 
-  ![This is a alt text.](./image/choose.png)
+  ![This is a alt text.](https://github.com/yubinho/Uno-board-game-with-java-swing/blob/main/image/choose.PNG)
 
 * 結束頁面，可點選退出重新開始或者直接退出並結束遊戲
 
-  ![This is a alt text.](./image/win.png)
+  ![This is a alt text.](https://github.com/yubinho/Uno-board-game-with-java-swing/blob/main/image/win.PNG)
 
 
 
