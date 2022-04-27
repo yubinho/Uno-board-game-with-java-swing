@@ -80,7 +80,7 @@ Java SE Development Kit
   ![This is a alt text.](./image/addName.png)
 * 主要遊戲頁面，可點選下方卡牌進行出牌，或者抽一張牌結束回合，也可在即將贏得遊戲時點選Uno(需<=兩張牌)，未點選會導致無法結束並且被懲罰抽2張牌
 
-  ![This is a alt text.](./image/main.png)
+  ![This is a alt text.](https://github.com/yubinho/Uno-board-game-with-java-swing/blob/main/image/Main.PNG)
 * 出牌確認，點選使用按鈕後，系統會判斷出牌是否滿足規則，滿足則輪到下一位玩家，反之則重新出牌
 
   ![This is a alt text.](./image/submit.png)
