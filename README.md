@@ -30,9 +30,6 @@ Java SE Development Kit
 
 [JRE download here](https://www.oracle.com/java/technologies/downloads/)
 
-# Installation
-
-
 
 # Game rules
 
