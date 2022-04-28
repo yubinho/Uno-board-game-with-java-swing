@@ -32,7 +32,7 @@ Java SE Development Kit
 
 # Installation
 
-在安裝好Java後，點擊Uno.exe進行遊戲或直接以javac對UnoHome.java進行編譯
+
 
 # Game rules
 
@@ -67,6 +67,12 @@ Java SE Development Kit
       |  +4      | 無|隨意指定下一名玩家出牌顏色，並且需要再抽4張牌|
 
 # Usage
+
+* 在安裝好Java後，點擊Uno.exe進行遊戲或直接以javac對UnoHome.java進行編譯
+  ```
+  javac encoding="utf-8" UnoHome.java
+  java UnoHome
+  ```
 
 * 首頁，點選開始可以進行新一輪遊戲，也可點選規則說明或離開
   
